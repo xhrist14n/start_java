@@ -10,6 +10,10 @@ public class App
     {
         System.out.println( "Iniciando App" );
 
+        DialogoEntrada entrada = new DialogoEntrada();
+
+        Double decimal = entrada.ingresarDecimal("Ingrese un decimal");
+
         System.out.println( "Finalizo App" );
     }
 }
