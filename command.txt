@@ -1,1 +1,1 @@
-mvn archetype:generate -DgroupId=one.app -DartifactId=one -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+mvn archetype:generate -DgroupId=three.app -DartifactId=three -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
